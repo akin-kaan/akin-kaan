@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @akin-kaan
-- 👀 I’m interested in cryptocurrency
-- 🌱 I’m currently learning javascript
-- 📫 How to reach me twitter @kaanakin165
+- 👀 I’m interested in cryptocurrency and economy and software.
+- 🌱 I’m currently learning Javascript,Angular and Node.js
+- 📫 You can reach me on twitter @kaanakin165
+- I am studying mathematics engineering at Yıldız Technical University.
 
-<!---
-akin-kaan/akin-kaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
